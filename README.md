@@ -2,9 +2,9 @@
   <img src="https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg">
 </p>
 
-<h4><p align="center"> 𝗠𝗔𝗡𝗔𝗚𝗘 𝗢𝗧𝗔𝗡 </p></h4>
+<h4><p align="center"> 𝗢𝗧𝗔𝗡 𝗖𝗔𝗕𝗨𝗟 </p></h4>
 
-<p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center"> Intinya ini adalah bot musik mek.</p>
 
 <p align="center">
 <a href="https://t.me/SipalingOTAN"> <img src="https://img.shields.io/badge/OTAN-CABUL-blue?&logo=telegram" alt="OTAN on Telegram" /> </a><br>
@@ -23,7 +23,7 @@
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OTANCABUL/manage"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OTANCABUL/OtanCabul"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
