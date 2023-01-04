@@ -14,24 +14,3 @@
 <a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.5-purple?&style=flat-round&logo=python" alt="Python" /> </a><br>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
 </p>
-
-### TUTORIAL
-
-- First fork this repository.
-- Then change the deploy link bellow.
-- This step must be doing because mine link is violates the salesforce acceptable use.
-- You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OTANCABUL/OtanCabul"> <img 
-src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
-
-
-```
-
-
-## Credit 
-
-```
-It's useless to give credit because YOU won't care.
-```
