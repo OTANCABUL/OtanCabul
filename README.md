@@ -4,7 +4,7 @@
 
 <h4><p align="center"> 𝗢𝗧𝗔𝗡 𝗖𝗔𝗕𝗨𝗟 </p></h4>
 
-<p align="center"> Intinya ini adalah bot musik mek.</p>
+<p align="center"> Intinya ini adalah.</p>
 
 <p align="center">
 <a href="https://t.me/SipalingOTAN"> <img src="https://img.shields.io/badge/OTAN-CABUL-blue?&logo=telegram" alt="OTAN on Telegram" /> </a><br>
