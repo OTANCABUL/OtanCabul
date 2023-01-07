@@ -19,13 +19,13 @@ async def play_logs(message, streamtype):
         else:
             chatusername = "Private Group"
         logger_text = f"""
-**OTAN CABUL PLAY LOG**
+**𝗢𝗧𝗔𝗡 𝗖𝗔𝗕𝗨𝗟 𝗣𝗟𝗔𝗬 𝗟𝗢𝗚**
 
-**Chat:** {message.chat.title} [`{message.chat.id}`]
-**User:** {message.from_user.mention}
-**Username:** @{message.from_user.username}
-**User ID:** `{message.from_user.id}`
-**Chat Link:** {chatusername}
+**👤Nama Grup𖣘** {message.chat.title} [`{message.chat.id}`]
+**🥵Nama Pencuri𖣘** {message.from_user.mention}
+**🔤Username Pencuri𖣘** @{message.from_user.username}
+**🆔ID Pencurinya𖣘** `{message.from_user.id}`
+**♿Link Tongkrongannya𖣘** {chatusername}
 
 **Query:** {message.text}
 
