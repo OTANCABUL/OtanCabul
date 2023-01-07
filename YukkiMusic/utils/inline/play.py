@@ -67,7 +67,7 @@ def stream_markup(_, videoid):
                 text=_["PL_B_3"], switch_inline_query_current_chat=""
             ),
             InlineKeyboardButton(
-                text=_["S_B_9"], url=f"https://t.me/mahadappa",
+                text=_["S_B_9"], url=f"https://t.me/gbtnyaOtan",
             ),
         ],
         [
