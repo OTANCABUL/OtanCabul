@@ -21,9 +21,9 @@ async def play_logs(message, streamtype):
         logger_text = f"""
 **𝗢𝗧𝗔𝗡 𝗖𝗔𝗕𝗨𝗟 𝗣𝗟𝗔𝗬 𝗟𝗢𝗚**
 
-**👤Nama Grup𖣘** {message.chat.title} [`{message.chat.id}`]
-**🥵Nama Pencuri𖣘** {message.from_user.mention}
-**🔤Username Pencuri𖣘** @{message.from_user.username}
+**👤Nama Grupnya𖣘** {message.chat.title} [`{message.chat.id}`]
+**🥵Nama Pencurinya𖣘** {message.from_user.mention}
+**🔤Username Pencurinya𖣘** @{message.from_user.username}
 **🆔ID Pencurinya𖣘** `{message.from_user.id}`
 **♿Link Tongkrongannya𖣘** {chatusername}
 
