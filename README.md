@@ -4,7 +4,7 @@
 
 <h4><p align="center"> 𝗢𝘁𝗮𝗻 𝗖𝗮𝗯𝘂𝗹 </p></h4>
 
-<p align="center"> Intinya ini adalah kira" bgtu .</p>
+<p align="center"> Intinya ini adalah kira" bgtu nggk usah nanya lagi🐒.</p>
 
 <p align="center">
 <a href="https://t.me/SipalingOTAN"> <img src="https://img.shields.io/badge/OTAN-CABUL-blue?&logo=telegram" alt="OTAN on Telegram" /> </a><br>
